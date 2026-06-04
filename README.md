@@ -11,7 +11,7 @@ Full Stack Web Developer specializing in the MERN Stack (MongoDB, Express.js, Re
 - 🔭 Currently working on MERN Stack projects and learning advanced system design
 - 🌱 Mastering TypeScript, GraphQL, and Redux for modern web development
 - 👯 Open to freelance projects and remote opportunities
-- 📍 Based in Ludhiana, Punjab, India
+- 📍 Based in Chandigarh, Punjab, India
 - 💬 Ask me about MERN Stack, JavaScript, React, and Node.js
 
 ---
@@ -37,8 +37,8 @@ Full Stack Web Developer specializing in the MERN Stack (MongoDB, Express.js, Re
 
 ## 📫 Get in Touch
 
-- **Email**: Reach out via my profile
-- **GitHub**: [@ArjunSingh814260](https://github.com/ArjunSingh814260)
-- **Location**: Ludhiana, Punjab, India
+- **Email:** Reach out via my profile
+- **GitHub:** [@ArjunSingh814260](https://github.com/ArjunSingh814260)
+- **Location:** Chandigarh, Punjab, India
 
 Feel free to connect and collaborate!
